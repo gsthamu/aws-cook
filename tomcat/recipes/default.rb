@@ -1,4 +1,4 @@
-nclude_recipe "java"
+include_recipe "java"
 
 case node.platform
 when "centos","redhat","fedora"
